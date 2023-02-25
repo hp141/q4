@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+.main-box{
+    display: flex;
+    flex-wrap: wrap;
+    height: 600px;
+    width: 600px;
+}
+.small-box{
+    height: 150px;
+    width: 150px;
+}
+.small-box img{
+    height: 100%;
+}
+
+input{
+    margin : 50px 50px;
+}
+button{
+    margin : 50px 50px;
+}
